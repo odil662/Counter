@@ -1,0 +1,37 @@
+.counter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.counterSum {
+  margin: 15px;
+}
+
+.button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button__calc {
+  margin: 5px;
+}
+
+.button__calc_icon {
+  margin-left: 5px;
+}
+
+.button__step {
+  margin: 5px;
+}
+
+.button__step_icon {
+  margin-left: 5px;
+}
+.button__step_click {
+  background-color: red;
+}
